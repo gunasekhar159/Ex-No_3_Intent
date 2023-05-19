@@ -224,9 +224,6 @@ tools:context="com.example.android.intents.SecondActivity">
 ![3-2](https://github.com/gunasekhar159/Ex-No_3_Intent/assets/95043391/ee6984bd-8946-4747-9a23-477a74046a8a)
 
 ## Implicit Intent:
-![Uploading 3-3.png…]()
-
-
 
 ## Result:
 Thus a Simple Android Application to open google page using Implicit Intents in Android Studio was developed and executed successfully.
